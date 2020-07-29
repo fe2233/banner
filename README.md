@@ -1,1 +1,1 @@
-[deeemo](https://fe2233.github.io/Jbanner/)
+[deeemo](https://fe2233.github.io/banner/)
